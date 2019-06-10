@@ -5,7 +5,7 @@
 body{
 	font-family:  Microsoft JhengHei;
 	font-size: 20px;
-	background-image: url(4.jpg);
+	background-image: url(https://pokemongolive.com/img/posts/unibailsafarizone.jpg);
 	background-size: cover;
 	background-position: center center;
 }
@@ -14,7 +14,7 @@ body{
 }
 #banner{
 	height: 400px;
-	background-image: url(pgo.jpg);
+	background-image: url(https://img.4gamers.com.tw/ckfinder/files/Elvis/News/20190309-Pokemon/pgo.jpg);
 	background-size: cover;
 	background-position: center center;
 }
